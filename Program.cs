@@ -7,7 +7,10 @@ class Program
         // Calculadora calculadora = new Calculadora();
         // calculadora.get_option();
 
-        Equality equality = new Equality();
-        equality.get_equality();
+        // Equality equality = new Equality();
+        // equality.get_equality();
+
+        LogicExpression logic = new LogicExpression();
+        logic.get_logExpress();
     }
 }
