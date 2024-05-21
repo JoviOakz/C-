@@ -4,9 +4,10 @@ class Program
 {
     static void Main()
     {
-        Calculadora calculadora = new Calculadora();
-        calculadora.get_option();
+        // Calculadora calculadora = new Calculadora();
+        // calculadora.get_option();
 
-        
+        Equality equality = new Equality();
+        equality.get_equality();
     }
 }
