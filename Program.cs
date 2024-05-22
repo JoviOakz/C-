@@ -10,7 +10,9 @@ class Program
         // Equality equality = new Equality();
         // equality.get_equality();
 
-        LogicExpression logic = new LogicExpression();
-        logic.get_logExpress();
+        // LogicExpression logic = new LogicExpression();
+        // logic.get_logExpress();
+
+        StructuralSequence.get_StructSeq();
     }
 }
